@@ -138,9 +138,9 @@ export function TopBar({
         </button>
 
         <div className="profile-pill">
-          <div className="profile-pill__avatar">DN</div>
+          <div className="profile-pill__avatar">U</div>
           <div>
-            <strong>Dillon Naar</strong>
+            <strong>User</strong>
             <span>Property manager</span>
           </div>
         </div>
